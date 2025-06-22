@@ -14,6 +14,9 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 4. **State Demographics Analysis**  
    Insights on voting patterns and population data.
 
+5. **Details Grid**
+   
+
 ---
 ## Tools Used
 - **Power BI Desktop**
