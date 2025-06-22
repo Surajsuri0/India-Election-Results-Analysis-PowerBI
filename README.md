@@ -30,6 +30,7 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 
 ---
 ## 📸 Sample Screenshots
+- <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Screenshots">Screenshots</a>
 
 
 
