@@ -1,7 +1,7 @@
-# 🗳️ Indian General Election 2024 - Power BI Analysis
-This project visualizes and analyzes the 2024 Indian General Election results using Power BI. It covers alliance-wise performance, state-level results, constituency breakdowns, and demographics.
+# Indian General Election 2024 - Power BI Analysis
+## This project visualizes and analyzes the 2024 Indian General Election results using Power BI. It covers alliance-wise performance, state-level results, constituency breakdowns, and demographics.
 
-## 📌 Dashboards Included
+## Dashboards Included
 1. **Overview Analysis**  
    Summary of total seats, party performance, and vote share.
 2. **Political Landscape by State**  
@@ -16,12 +16,12 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 
 
 ---
-## 📊 Tools Used
+## Tools Used
 - **Power BI Desktop**
 - **Excel**
 
 ---
-## 📥 How to Use
+## How to Use
 1. Download or clone the repository
 2. Open `.pbix` file in Power BI Desktop
 3. Connect to or update the data source if needed
