@@ -54,6 +54,11 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 10. Which state had the highest voter turnout percentage?
 
 
+## Process
+
+The project was developed by first cleaning and organizing the election dataset in Power Querry Editor and then Applied it into Power BI. Data modeling was done to establish relationships between constituencies, parties, and candidates. Multiple dashboards were created to visualize the results from different angles such as alliance performance, constituency-wise analysis, demographics, and detailed tabular insights. A set of question-based KPIs was incorporated to help users quickly understand key election insights like top winning party, highest vote margin, and voter turnout. A custom violet theme (#760DB2) was applied to maintain a visually attractive and professional look throughout the report.
+
+
 ## Dashboard Screenshots
 - <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Screenshots">Screenshots</a>
 
@@ -61,9 +66,6 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 ![Overviwe Analysis Dashboard](https://github.com/user-attachments/assets/45d39adb-4590-4adf-aa05-25ca7b6320db)
 
 
-## Process
-
-The project was developed by first cleaning and organizing the election dataset in Power Querry Editor and then Applied it into Power BI. Data modeling was done to establish relationships between constituencies, parties, and candidates. Multiple dashboards were created to visualize the results from different angles such as alliance performance, constituency-wise analysis, demographics, and detailed tabular insights. A set of question-based KPIs was incorporated to help users quickly understand key election insights like top winning party, highest vote margin, and voter turnout. A custom violet theme (#760DB2) was applied to maintain a visually attractive and professional look throughout the report.
 
 ## Final Conclusion
 
