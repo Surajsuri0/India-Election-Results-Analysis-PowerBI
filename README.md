@@ -32,6 +32,7 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 ## Dataset Used
 - <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Raw%20Data">Dataset</a>
 
+---
 ## Questions (KPIs)
 1. How many total seats did each political party win in the 2024 General Elections?
 
@@ -54,11 +55,13 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 10. Which state had the highest voter turnout percentage?
 
 
+---
 ## Process
 
 The project was developed by first cleaning and organizing the election dataset in Power Querry Editor and then Applied it into Power BI. Data modeling was done to establish relationships between constituencies, parties, and candidates. Multiple dashboards were created to visualize the results from different angles such as alliance performance, constituency-wise analysis, demographics, and detailed tabular insights. A set of question-based KPIs was incorporated to help users quickly understand key election insights like top winning party, highest vote margin, and voter turnout. A custom violet theme (#760DB2) was applied to maintain a visually attractive and professional look throughout the report.
 
 
+---
 ## Dashboard Screenshots
 - <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Screenshots">Screenshots</a>
 
@@ -66,7 +69,7 @@ The project was developed by first cleaning and organizing the election dataset 
 ![Overviwe Analysis Dashboard](https://github.com/user-attachments/assets/45d39adb-4590-4adf-aa05-25ca7b6320db)
 
 
-
+---
 ## Final Conclusion
 
 This Power BI project provides a comprehensive and visually engaging analysis of the 2024 Indian General Election results. Through multiple dashboards and question-driven KPIs, it offers users an interactive way to explore party performance, vote margins, and demographic patterns. The consistent design and custom theme enhance the storytelling experience. This project not only demonstrates my ability to handle real-world data analysis but also showcases my skills in Power BI visualization, data modeling, and dashboard design.
