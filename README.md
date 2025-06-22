@@ -15,7 +15,7 @@ This project visualizes and analyzes the 2024 Indian General Election results us
    Insights on voting patterns and population data.
 
 5. **Details Grid**
-   
+   Tabular view containing detailed information of each constituency — including candidate names, party affiliations, vote counts, vote percentages, and result status (winner/runner-up/NOTA).
 
 ---
 ## Tools Used
