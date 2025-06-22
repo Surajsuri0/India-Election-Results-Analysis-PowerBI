@@ -29,11 +29,25 @@ This project visualizes and analyzes the 2024 Indian General Election results us
 3. Connect to or update the data source if needed
 
 ---
+## Dataset Used
+- <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Raw%20Data">Dataset</a>
+
+## Questions (KPIs)
+-- How many total seats did each political party win in the 2024 General Elections?
+-- Which alliance (NDA, I.N.D.I.A, Others) secured the highest number of seats overall?
+-- What is the vote share percentage of each major political party across India?
+-- Which state recorded the highest number of seats won by a single party?
+-- Which candidate had the highest margin of victory in their constituency?
+-- Which 5 constituencies witnessed the closest elections (smallest winning margin)?
+-- What is the total number of votes received by each party nationwide?
+-- How many female candidates won compared to male candidates?
+-- In how many constituencies did NOTA receive more than 5% of the total votes?
+-- Which state had the highest voter turnout percentage?
+
 ## 📸 Sample Screenshots
 - <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Screenshots">Screenshots</a>
 
-## Dataset Used
-- <a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Raw%20Data">Dataset</a>
+
 
 
 
